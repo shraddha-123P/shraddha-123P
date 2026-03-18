@@ -31,8 +31,8 @@ Currently I am **building frontend projects, improving my JavaScript skills, and
 
 ## 📂 Projects
 
-### 📝 To-Do List Application
-A **task management app built with JavaScript** with some unique usability features.
+### 💻 Voom Meeting Application
+A **JavaScript-based Video Call Meeting Application**. This project simulates a Zoom-like meeting UI using pure JavaScript.
 
 ### ⏱ Stopwatch Application
 A **JavaScript-based stopwatch application** implementing timer logic and DOM manipulation.
