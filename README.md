@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shraddha Pohankar
 
-💻 **Frontend Developer (Aspiring)**  
+💻 **Frontend Developer**  
 Working with **HTML, CSS, JavaScript** and currently **upskilling in React**
 
 📍 Pune, India  
