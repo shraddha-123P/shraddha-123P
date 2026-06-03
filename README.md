@@ -11,7 +11,7 @@ Working with **HTML, CSS, JavaScript** and currently **upskilling in React**
 
 I am transitioning into **Frontend Development** with a strong foundation in **HTML, CSS, and JavaScript**.
 
-Previously I worked in engineering roles including **Project Engineering, Project Coordination, and Estimation Engineering**, where I handled **client communication, planning, documentation, and ERP-based systems**.
+Previously I worked in technology backed engineering roles.
 
 Currently I am **building frontend projects, improving my JavaScript skills, and learning React**.
 
@@ -25,7 +25,7 @@ Currently I am **building frontend projects, improving my JavaScript skills, and
 - CSS  
 - JavaScript  
 - Git & GitHub  
-- React *(Currently Learning)*  
+- React
 
 ---
 
@@ -33,12 +33,6 @@ Currently I am **building frontend projects, improving my JavaScript skills, and
 
 ### 💻 Voom Meeting Application
 A **JavaScript-based Video Call Meeting Application**. This project simulates a Zoom-like meeting UI using pure JavaScript.
-
-### ⏱ Stopwatch Application
-A **JavaScript-based stopwatch application** implementing timer logic and DOM manipulation.
-
-### ☎ Phone Number Validator
-A **JavaScript validation project** demonstrating input validation logic.
 
 ### 🍔 Food Delivery App (Namaste React Project)
 A **Swiggy-style food delivery UI** built while learning **React fundamentals** and working with **live APIs**.
